@@ -1,0 +1,12 @@
+{
+    "name": "neon-fall-17",
+    "version": "0.1.0",
+    "type": "module",
+    "dependencies": {
+        "electron": "^44.0.0",
+        "three": "^0.185.1"
+    },
+    "scripts": {
+        "renderer": "electron src/main-electron.js"
+    }
+}
